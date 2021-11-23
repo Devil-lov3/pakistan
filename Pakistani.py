@@ -796,5 +796,5 @@ def clone_dari_file():
 		
 if __name__ == '__main__':
 	login()
-	AHMED 🖤🖤🖤SHAH 
+	 
  
